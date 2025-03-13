@@ -1,5 +1,5 @@
 # MTA-SA-Gamemode-Proyecto-Alice-Mods-Scripts-
-Gamemode Original hecha por mi,  a futuro se agregara mas cosas, esta es la version 1.0.1 , ve a tags y lee, luego subire todo poco a poco, estoy entendiendo como es github
+Gamemode Original hecha por mi,  a futuro se agregara mas cosas, esta es la version 1.0.1 , ve a tags luego a releases y lee, luego subire todo poco a poco, estoy entendiendo como es github
 
 Gamemode v-1.0.1
 
